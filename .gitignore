@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# PyCharm
+.idea/
+
+# React / Node.js
+node_modules/
